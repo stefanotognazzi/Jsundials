@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ida&apos; to &apos;jida&apos;&#x0D;&#x0A;- Original project: &apos;jsundials&apos;&#x0D;&#x0A;- Original element: &apos;jsundials/src/ida&apos;&#x0D;&#x0A;- Renamed element: &apos;jsundials/src/jida&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ida&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ida" name="jida" qualified="false" references="true" stamp="1529072944779" textual="false" version="1.0"/>
+</session>
