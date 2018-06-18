@@ -3,4 +3,5 @@ A Java interface designed to allow users to use the sundials library to solve OD
 
 PLEASE NOTE, in order to work properly some dynamic libraries are needed and you can find some pre-compiled dynamic libraries for the most common architectures here:
 https://github.com/stefanotognazzi/Jsundials/tree/master/libraries
-Once you have downloaded the dynamic libraries you must place them in your java.library.path
+
+Once you have downloaded the dynamic libraries you **must** place them in your java.library.path
